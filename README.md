@@ -1,11 +1,8 @@
 <div align="center">
 
-## Where Curiosity Meets Code, Ideas Evolve into Meaningful Solutions
-
+### Where Curiosity Meets Code, Ideas Evolve into Meaningful Solutions
 ### Every Project Is Another Step Toward Mastering the Art of Software Development
-
 </div>
-
 ---
 
 <p align="justify">
